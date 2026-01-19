@@ -1,0 +1,5 @@
+{
+  "name": "Copy of SmartRecall - AI Study Companion",
+  "description": "An intelligent spaced-repetition revision app powered by Gemini AI. Create decks from documents, generate quizzes automatically, and chat with your study materials.",
+  "requestFramePermissions": []
+}
